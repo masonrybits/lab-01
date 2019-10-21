@@ -1,0 +1,30 @@
+/* mobile */
+@media screen and (max-width: 480px) {
+
+  article {
+    width: 480px;
+    margin: auto;
+  }
+
+}
+
+/* tablet */
+@media screen and (min-width: 481px) {
+
+  article {
+    width: 480px;
+    margin: auto;
+  }
+
+}
+
+/* desktop */
+@media screen and (min-width: 768px) {
+
+article {
+  width: 960px;
+  height: 600px;
+  margin: auto;
+}
+
+}
