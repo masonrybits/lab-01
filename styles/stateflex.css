@@ -1,4 +1,6 @@
-@media screen and (min-width: 481px) and (max-width: 768px) {
+/* tablet */
+
+@media screen and (min-width: 768px) and (max-width: 1024px) {
   .container {
     display: flex;
     flex-wrap:wrap;
@@ -76,8 +78,9 @@
   }
 }  
 
+/* desktop */
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 1024px) {
   .container {
     display: flex;
     flex-wrap: wrap;
